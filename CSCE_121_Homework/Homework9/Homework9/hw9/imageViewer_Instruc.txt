@@ -1,0 +1,7 @@
+- Open XQuarts
+- Log in to tamu server
+	- ssh jtiu.edu@build.tamu.edu
+- cd to folder that has the executable file
+- compile
+	- g++ -std=c++11 *.cpp -lftk -lftk_images -o nameOfFile
+- run
